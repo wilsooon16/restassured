@@ -1,0 +1,6 @@
+00:46:29.638 [main] INFO  TestFramework.basics3 - Host informationhttps://reqres.in
+00:46:30.391 [main] INFO  TestFramework.basics3 - {"id":4,"token":"QpwL5tke4Pnpja7X4"}
+00:46:30.400 [main] INFO  TestFramework.basics3 - QpwL5tke4Pnpja7X4
+23:57:24.187 [main] INFO  TestFramework.basics3 - Host informationhttps://reqres.in
+23:57:25.001 [main] INFO  TestFramework.basics3 - {"id":4,"token":"QpwL5tke4Pnpja7X4"}
+23:57:25.010 [main] INFO  TestFramework.basics3 - QpwL5tke4Pnpja7X4
