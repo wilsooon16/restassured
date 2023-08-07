@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite hostname="MacBook-Pro.local" name="TestFramework.basics" tests="4" failures="0" timestamp="14 Aug 2019 16:57:31 GMT" time="4.232" errors="0">
-  <testcase name="getPlaceAPI" time="1.453" classname="TestFramework.basics"/>
-  <testcase name="createPlaceAPI" time="0.744" classname="TestFramework.basics2"/>
-  <testcase name="AddandDeletePlace" time="1.638" classname="TestFramework.basics3"/>
-  <testcase name="extractingNamesAPI" time="0.389" classname="TestFramework.basics5"/>
-</testsuite>
