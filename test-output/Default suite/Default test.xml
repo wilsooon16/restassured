@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite hostname="MacBook-Pro-4f83" name="TestFramework.basics2" tests="1" failures="0" timestamp="4 Aug 2019 11:50:44 GMT" time="9.556" errors="0">
-  <testcase name="createPlaceAPI" time="9.544" classname="TestFramework.basics2"/>
-</testsuite>
